@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "PokiAPI_v2.0"
